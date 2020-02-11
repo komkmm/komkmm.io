@@ -6,5 +6,19 @@ Softmax는 input에 대한 출력은 0~1 사이의 값으로 정규화하며 out
 * 상기 Hypothesis로 도출된 값은 Score에 불과하므로 softmax 통해서 Probabilities로 변환
 * Tensorflow에서 구현시 : hypothesis = tf.nn.softmax(hypothessis)
 
+![intro](./img/intro.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+출처 : https://gombru.github.io/2018/05/23/cross_entropy_loss/
 
