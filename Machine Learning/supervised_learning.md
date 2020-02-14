@@ -21,9 +21,10 @@
 
 3. Regularization
 
-4. Optimization
-  ~~Strategy #1 Random search~~  
-#  
+4. Optimization  
+~~Strategy #1 Random search~~  
+
+Strategy #2 Gradient Descent
   
   
 
