@@ -11,13 +11,16 @@
 
 > Supervised-learning, Classification
 
-## Score function
+1. Score function
 > s = f(x;W) = Wx
 
-## Loss function
+2. Loss function
 > Softmax
 
 > SVM(Support Vector Machine)
 
-## Regularization
+3. Regularization
+
+4. Optimization
+
 
