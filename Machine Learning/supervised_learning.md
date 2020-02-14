@@ -28,5 +28,9 @@
       - Numerical gradient: approximate, slow, easy to write
         (실제로는 쓰이지 않으나, scale을 줄여서 디버깅할 때 유용)
       - Analytic gradient : exact, fast, error-prone
+      
+        Weights += -learning_rate * Gradients
   
+      etc) Stochastic Gradient Descent(SGD)
+      > 전체 Data를 다 학습하고 weight을 업데이트 하지 않고, minibatch만 학습하고 weight를 업데이트
 
