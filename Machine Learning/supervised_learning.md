@@ -22,5 +22,8 @@
 3. Regularization
 
 4. Optimization
-
+  ~~Strategy #1 Random search~~  
+#  
+  
+  
 
