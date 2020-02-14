@@ -25,6 +25,8 @@
   ~~Strategy #1 Random search~~  
 
     Strategy #2 Gradient Descent
-  
+      - Numerical gradient: approximate, slow, easy to write
+        (실제로는 쓰이지 않으나, scale을 줄여서 디버깅할 때 유용)
+      - Analytic gradient : exact, fast, error-prone
   
 
