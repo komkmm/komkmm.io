@@ -7,4 +7,17 @@
 * 별도의 학습이 일어나지 않기 때문에 Train시 소요시간은 적으나, Test시 시간이 많이 소요되어 실제 활용에는 부적합
 * 변수간 단위가 다를 경우 반드시 Normalization 이후 알고리즘을 적용해야함
 
+# Linear Classifier
+
+> Supervised-learning, Classification
+
+## Score function
+> s = f(x;W) = Wx
+
+## Loss function
+> Softmax
+
+> SVM(Support Vector Machine)
+
+## Regularization
 
