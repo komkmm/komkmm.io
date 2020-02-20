@@ -37,9 +37,9 @@
       * exact한 gradient를 구하는 것이 아닌 noise가 들어간 추정 gradient를 구하는 것이기 때문에 학습 속도가 느려질 수 있음
       * Momentum(velocity를 고려)을 추가하면 성능이 더 좋아짐
       etc) SGD + Momentum
-      * 
+      > ![equation](https://latex.codecogs.com/gif.latex?v_%7Bt&plus;1%7D%20%3D%20%5Crho%20v_%7Bt%7D%20&plus;%20%5Cbigtriangledown%20f%28x_%7Bt%7D%29%5C%5C%20%5C%2C%20x_%7Bt&plus;1%7D%20%3D%20x_%7Bt%7D%20-%20%5Calpha%20v_%7Bt&plus;1%7D)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE2OTI5Niw1ODI0OTIyODQsNzU1OD
-c5ODAxXX0=
+eyJoaXN0b3J5IjpbLTE0Mzc4MDAyMzgsLTEzMzE2OTI5Niw1OD
+I0OTIyODQsNzU1ODc5ODAxXX0=
 -->
