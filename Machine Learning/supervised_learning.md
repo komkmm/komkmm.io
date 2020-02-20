@@ -36,11 +36,12 @@
       > 전체 Data를 다 학습하고 weight을 업데이트 하지 않고, minibatch만 학습하고 weight를 업데이트
       * exact한 gradient를 구하는 것이 아닌 noise가 들어간 추정 gradient를 구하는 것이기 때문에 학습 속도가 느려질 수 있음
       * Momentum(velocity를 고려)을 추가하면 성능이 더 좋아짐
- etc) SGD + Momentum
+	etc) SGD + Momentum
       > ![equation](https://latex.codecogs.com/gif.latex?%5C%5C%20v_%7Bt&plus;1%7D%20%3D%20%5Crho%20v_%7Bt%7D%20&plus;%20%5Cbigtriangledown%20f%28x_%7Bt%7D%29%20%5C%5C%20x_%7Bt&plus;1%7D%20%3D%20x_%7Bt%7D%20-%20%5Calpha%20v_%7Bt&plus;1%7D)
  * velocity는 hyperparameter가 아니므로 초기값은 0으로 설정
  * rho 값은 일반적으로 0.9정도로 설정
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEzOTY3NDYsMTA4NTMwNTkwMCwtMT
-MzMTY5Mjk2LDU4MjQ5MjI4NCw3NTU4Nzk4MDFdfQ==
+eyJoaXN0b3J5IjpbLTUxODI0NTk0LC0xMDUxMzk2NzQ2LDEwOD
+UzMDU5MDAsLTEzMzE2OTI5Niw1ODI0OTIyODQsNzU1ODc5ODAx
+XX0=
 -->
