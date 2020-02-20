@@ -40,8 +40,9 @@
       > ![equation](https://latex.codecogs.com/gif.latex?%5C%5C%20v_%7Bt&plus;1%7D%20%3D%20%5Crho%20v_%7Bt%7D%20&plus;%20%5Cbigtriangledown%20f%28x_%7Bt%7D%29%20%5C%5C%20x_%7Bt&plus;1%7D%20%3D%20x_%7Bt%7D%20-%20%5Calpha%20v_%7Bt&plus;1%7D)
  * velocity는 hyperparameter가 아니므로 초기값은 0으로 설정
  * rho 값은 일반적으로 0.9정도로 설정
+ * 이외에 RMSProp, Adagredient, Adam 등이 있으며 Adam이 일반적으로 모든 환경에서 잘 동작하여 Adam을 기본으로 사용하는 것을 추천
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODI0NTk0LC0xMDUxMzk2NzQ2LDEwOD
-UzMDU5MDAsLTEzMzE2OTI5Niw1ODI0OTIyODQsNzU1ODc5ODAx
-XX0=
+eyJoaXN0b3J5IjpbMTg5MzgzMDI1NywtMTA1MTM5Njc0NiwxMD
+g1MzA1OTAwLC0xMzMxNjkyOTYsNTgyNDkyMjg0LDc1NTg3OTgw
+MV19
 -->
