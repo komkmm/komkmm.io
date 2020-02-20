@@ -33,4 +33,9 @@
   
       etc) Stochastic Gradient Descent(SGD)
       > 전체 Data를 다 학습하고 weight을 업데이트 하지 않고, minibatch만 학습하고 weight를 업데이트
+      * exact한 gradient를 구하는 것이 아닌 noise가 들어간 추정 gradient를 구하는 것이기 때문에 학습 속도가 느려질 수 있음
+      * Momentum을 추가하면 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ2NzExNjIxMl19
+-->
