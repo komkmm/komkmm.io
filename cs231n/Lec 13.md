@@ -1,25 +1,17 @@
 # Supervised vs Unsupervised Learning 
-## Supervised Learing
+## Supervised Learning
 * Data : (x, y) x is data, y is label
-* Goal : Learn a function to map x -> y
+* Goal : Learn a *function* to map x -> y
 * Examples : Classification, regression, object detection, semantic segmentation, image captioning, etc.
 
-## U
-
-
-
-
-
-ex) Clustering, Dimensionality reduction, feature learning, density estimation, etc.
-
-
-
-
-
+## Unsupervised Learning
+* Data : x. just data, no labels
+* Goal : Learn some underlying hidden *structure* of the data
+* Examples : Clustering, dimensionality reduction, feature learning, density estimation, etc.
 
 
 # Generative Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Nzg0MDYxOSwxNzkwMzIzNzBdfQ==
+eyJoaXN0b3J5IjpbLTM0MTQ2NTUzLDE3OTAzMjM3MF19
 -->
