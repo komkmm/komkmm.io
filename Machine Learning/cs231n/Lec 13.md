@@ -31,13 +31,14 @@ this class will discuss about 3 most popular types models
 
 * Generate image pixels starting from corner using RNN(LSTM) or CNN
 
+## Variational Autoencoder(VAE)
 
 * 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA0OTg4MCwyOTc4MDY5MDYsLTk1Mz
-I1NjA3NywxMDI3NjAwODAwLDIwMDkyNDE3NSwxNzkwMzIzNzBd
-fQ==
+eyJoaXN0b3J5IjpbMzc1ODQzNDEwLC0xNTUwNDk4ODAsMjk3OD
+A2OTA2LC05NTMyNTYwNzcsMTAyNzYwMDgwMCwyMDA5MjQxNzUs
+MTc5MDMyMzcwXX0=
 -->
