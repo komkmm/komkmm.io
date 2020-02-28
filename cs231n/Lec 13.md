@@ -13,9 +13,9 @@
 # Generative Models(unsupervised)
 > Given training data, generate new samples from same distribution
 * approach
-- Explicit density estimation
-- Im
+	- Explicit density estimation : explicitly define and solve for p_model(x)
+	- Implicit density estimation : learn model that can sample from p_model(x) w/o explicitly defining it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyMDcyOTY3LDE3OTAzMjM3MF19
+eyJoaXN0b3J5IjpbMjAwOTI0MTc1LDE3OTAzMjM3MF19
 -->
