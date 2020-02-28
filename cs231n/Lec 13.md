@@ -17,10 +17,10 @@
 	- Implicit density estimation : learn model that can sample from p_model(x) w/o explicitly defining it
 
 * Taxonomy
-![taxonomy](./machine learning/img/generative_model_hierarchy.jpg)
+![taxonomy](./Machine Learning/img/generative_model_hierarchy.jpg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTM1MTY3LDIwMDkyNDE3NSwxNzkwMz
-IzNzBdfQ==
+eyJoaXN0b3J5IjpbLTk0MTAzMDI3MywyMDA5MjQxNzUsMTc5MD
+MyMzcwXX0=
 -->
