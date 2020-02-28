@@ -25,10 +25,11 @@ this class will discuss about 3 most popular types models
 ## PixelRNN/CNN(Explicit density model)
 > Fully visible belief network, 
 > Use chain rule to decompose likelihood of an image x into product of 1-d distributions
+![
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MjI5NTQxLDEwMjc2MDA4MDAsMjAwOT
-I0MTc1LDE3OTAzMjM3MF19
+eyJoaXN0b3J5IjpbLTQyMjY5NjcxMSwxMDI3NjAwODAwLDIwMD
+kyNDE3NSwxNzkwMzIzNzBdfQ==
 -->
