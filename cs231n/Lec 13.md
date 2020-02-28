@@ -10,8 +10,12 @@
 * Examples : Clustering, dimensionality reduction, feature learning, density estimation, etc.
 
 
-# Generative Models
+# Generative Models(unsupervised)
+> Given training data, generate new samples from same distribution
+* approach
+- Explicit density estimation
+- Im
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTQ2NTUzLDE3OTAzMjM3MF19
+eyJoaXN0b3J5IjpbOTYyMDcyOTY3LDE3OTAzMjM3MF19
 -->
