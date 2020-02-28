@@ -16,6 +16,10 @@
 	- Explicit density estimation : explicitly define and solve for p_model(x)
 	- Implicit density estimation : learn model that can sample from p_model(x) w/o explicitly defining it
 
+* Taxonomy
+![taxonomy](./img/generative_model_hierarchy.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTI0MTc1LDE3OTAzMjM3MF19
+eyJoaXN0b3J5IjpbNTA3OTMxNTA3LDIwMDkyNDE3NSwxNzkwMz
+IzNzBdfQ==
 -->
