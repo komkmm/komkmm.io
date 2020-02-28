@@ -19,10 +19,15 @@
 * Taxonomy
 ![intro](/img/intro.png)
 
+this class will discuss about 3 most popular types models
+(PixelRNN/CNN, Variational Autoencoder(VAE), GAN)
+
+## PixelRNN/CNN
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTkxMjAzNiwxMDI3NjAwODAwLDIwMD
-kyNDE3NSwxNzkwMzIzNzBdfQ==
+eyJoaXN0b3J5IjpbODc1MzEwMzY2LDEwMjc2MDA4MDAsMjAwOT
+I0MTc1LDE3OTAzMjM3MF19
 -->
