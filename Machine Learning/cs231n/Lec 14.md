@@ -12,7 +12,13 @@
 ![equation](https://latex.codecogs.com/gif.latex?%5C%5C%5Ctextrm%7BDefined%20by%20%3A%20%7D%5C%2C%28%5Cmathcal%7BS%7D%2C%20%5Cmathcal%7BA%7D%2C%20%5Cmathcal%7BR%7D%2C%20%5Cmathbb%7BP%7D%2C%20%5Cgamma%29%5C%5C%20%5Cmathcal%7BS%7D%20%3A%20%5Ctextrm%7Bsef%20of%20possible%20states%7D%20%5C%5C%20%5Cmathcal%7BA%7D%20%3A%20%5Ctextrm%7Bsef%20of%20possible%20actions%7D%20%5C%5C%20%5Cmathcal%7BR%7D%20%3A%20%5Ctextrm%7Bdistribution%20of%20reward%20given%20%28state%2C%20action%29%20pair%7D%20%5C%5C%20%5Cmathbb%7BP%7D%20%3A%20%5Ctextrm%7Btransition%20probability%20i.e.%20distribution%20over%20next%20state%20given%20%28state%2C%20action%29%20pair%7D%20%5C%5C%20%5Cgamma%20%3A%20%5Ctextrm%7Bdiscount%20factor%7D)
 
 ## The optimal policy **pi^*** 
+
+
+## Q-learning
+> Use a function approximator to estimate the action-value function
+> ![equation](https://latex.codecogs.com/gif.latex?Q%28s%2C%20a%3B%5Ctheta%29%20%5Capprox%20Q%5E*%28s%2C%20a%29)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ4NTgzNzAsOTUxODgyNDQ2LDE2OT
-EyMjkxOTgsLTE4MTEwODIyMTcsMjMzODcyODEwXX0=
+eyJoaXN0b3J5IjpbMTIwMTAwMzAwOCwtMTkxNDg1ODM3MCw5NT
+E4ODI0NDYsMTY5MTIyOTE5OCwtMTgxMTA4MjIxNywyMzM4NzI4
+MTBdfQ==
 -->
