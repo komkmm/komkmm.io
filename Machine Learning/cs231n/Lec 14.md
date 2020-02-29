@@ -21,9 +21,10 @@
 ### experience replay
 > Learning from batches of consecutive samples is problematic:
 * Samples are correlated - inefficient learning
-* Current Q-
+* Current Q-network parameters determines next training samples - can lead to bad feedback loops
+> addresses these problems using experience replay - continually update a replay
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDkxMTEzOSwtNzIzNjQ0Mjg1LC0xOT
-E0ODU4MzcwLDk1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODExMDgy
-MjE3LDIzMzg3MjgxMF19
+eyJoaXN0b3J5IjpbOTkzODY1MTQ2LC03MjM2NDQyODUsLTE5MT
+Q4NTgzNzAsOTUxODgyNDQ2LDE2OTEyMjkxOTgsLTE4MTEwODIy
+MTcsMjMzODcyODEwXX0=
 -->
