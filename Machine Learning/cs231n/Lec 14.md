@@ -25,9 +25,11 @@
 > addresses these problems using experience replay - continually update a replay memory table of transitions
 
 ### Policy Gradients
-> Q-function can be very complicated. But the policy can be much simpler. If we can learn a policy directly, finding the best policy from a collection 
+> Q-function can be very complicated. But the policy can be much simpler. If we can learn a policy directly, how about finding the best policy from a collection of policies?
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNTQ1NTQxLC0yNDM2MDY0NDQsLTcyMz
-Y0NDI4NSwtMTkxNDg1ODM3MCw5NTE4ODI0NDYsMTY5MTIyOTE5
-OCwtMTgxMTA4MjIxNywyMzM4NzI4MTBdfQ==
+eyJoaXN0b3J5IjpbLTIyMzM1ODY5MiwtMjQzNjA2NDQ0LC03Mj
+M2NDQyODUsLTE5MTQ4NTgzNzAsOTUxODgyNDQ2LDE2OTEyMjkx
+OTgsLTE4MTEwODIyMTcsMjMzODcyODEwXX0=
 -->
