@@ -38,6 +38,10 @@ this class will discuss about 3 most popular types models
 * problem
 
 
+* Q: Latent variable Z의 차원수를 직접 결정해줘야하는지?
+   A: 직접 명시해줘야함
+   
+
 
 ### Autoencoder(background)
 > Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training data
@@ -47,13 +51,15 @@ this class will discuss about 3 most popular types models
 * 
 
 
+
+
 Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI5Mzk0OTgsMjU3MjEzMjk1LC0xMz
-kwNjAxNTY0LDEwOTA1MDY4NTksMTEwMzE1NTg2NiwxNzYzMzY3
-MDIxLC0yMjExNTY3NSwzNzU4NDM0MTAsLTE1NTA0OTg4MCwyOT
-c4MDY5MDYsLTk1MzI1NjA3NywxMDI3NjAwODAwLDIwMDkyNDE3
-NSwxNzkwMzIzNzBdfQ==
+eyJoaXN0b3J5IjpbMTY4MzUxMTgzLC0xNDUyOTM5NDk4LDI1Nz
+IxMzI5NSwtMTM5MDYwMTU2NCwxMDkwNTA2ODU5LDExMDMxNTU4
+NjYsMTc2MzM2NzAyMSwtMjIxMTU2NzUsMzc1ODQzNDEwLC0xNT
+UwNDk4ODAsMjk3ODA2OTA2LC05NTMyNTYwNzcsMTAyNzYwMDgw
+MCwyMDA5MjQxNzUsMTc5MDMyMzcwXX0=
 -->
