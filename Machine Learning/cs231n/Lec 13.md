@@ -40,10 +40,12 @@ this class will discuss about 3 most popular types models
 * 
 
 
+Reference
+* http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ1ODk4MTEsMTc2MzM2NzAyMSwtMj
-IxMTU2NzUsMzc1ODQzNDEwLC0xNTUwNDk4ODAsMjk3ODA2OTA2
-LC05NTMyNTYwNzcsMTAyNzYwMDgwMCwyMDA5MjQxNzUsMTc5MD
-MyMzcwXX0=
+eyJoaXN0b3J5IjpbMTEwMzE1NTg2NiwxNzYzMzY3MDIxLC0yMj
+ExNTY3NSwzNzU4NDM0MTAsLTE1NTA0OTg4MCwyOTc4MDY5MDYs
+LTk1MzI1NjA3NywxMDI3NjAwODAwLDIwMDkyNDE3NSwxNzkwMz
+IzNzBdfQ==
 -->
