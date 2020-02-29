@@ -17,7 +17,7 @@
 	- Implicit density estimation : learn model that can sample from p_model(x) w/o explicitly defining it
 
 * Taxonomy
-![intro](/img/intro.png)
+![intro](./img/generative_model.png)
 
 this class will discuss about 3 most popular types models
 (PixelRNN/CNN, Variational Autoencoder(VAE), GAN)
@@ -34,13 +34,15 @@ this class will discuss about 3 most popular types models
 ## Variational Autoencoder(VAE)
 ### Autoencoder(background)
 > Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training data
-> Train such that features can be used to reconstruct
+> Train such that features can be used to reconstruct original data "Autoencoding" - encoding itself
+
+
 * 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDU2MjEwMiwzNzU4NDM0MTAsLTE1NT
-A0OTg4MCwyOTc4MDY5MDYsLTk1MzI1NjA3NywxMDI3NjAwODAw
-LDIwMDkyNDE3NSwxNzkwMzIzNzBdfQ==
+eyJoaXN0b3J5IjpbNDQzMTY5NDMwLDM3NTg0MzQxMCwtMTU1MD
+Q5ODgwLDI5NzgwNjkwNiwtOTUzMjU2MDc3LDEwMjc2MDA4MDAs
+MjAwOTI0MTc1LDE3OTAzMjM3MF19
 -->
