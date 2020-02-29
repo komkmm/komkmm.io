@@ -53,7 +53,10 @@ this class will discuss about 3 most popular types models
 ## GAN(Generative Adversarial Networks)
 > Sample from a simple distribution w/o explicitly density estimation
 ![gan](../img/GAN_graph.PNG)
-
+> Minimax objective function:  
+![equation](https://latex.codecogs.com/gif.latex?%5Cmin_%7B%5Ctheta_g%7D%5Cmax_%7B%5Ctheta_d%7D%5B%5Cmathbb%20E_%7Bx%20%5Csim%20p_%7Bdata%7D%7DlogD_%7B%5Ctheta_d%7D%20&plus;%20%5Cmathbb%20E_%7Bz%20%5Csim%20p_%7B%28z%29%7D%7Dlog%281%20-%20D_%7B%5Ctheta_d%7D%28G_%7B%5Ctheta_g%7D%28z%29%29%29%5D)
+> Alternate between:
+	> Gradient ascent on discriminator 
 
 ### Background Idea
 * Two-player game
@@ -64,9 +67,10 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcxNDcwMiwtNDU5NjcxOTQ1LC0xND
-UyOTM5NDk4LDI1NzIxMzI5NSwtMTM5MDYwMTU2NCwxMDkwNTA2
-ODU5LDExMDMxNTU4NjYsMTc2MzM2NzAyMSwtMjIxMTU2NzUsMz
-c1ODQzNDEwLC0xNTUwNDk4ODAsMjk3ODA2OTA2LC05NTMyNTYw
-NzcsMTAyNzYwMDgwMCwyMDA5MjQxNzUsMTc5MDMyMzcwXX0=
+eyJoaXN0b3J5IjpbMTU4NzgzNDczOSwtMTI1NzE0NzAyLC00NT
+k2NzE5NDUsLTE0NTI5Mzk0OTgsMjU3MjEzMjk1LC0xMzkwNjAx
+NTY0LDEwOTA1MDY4NTksMTEwMzE1NTg2NiwxNzYzMzY3MDIxLC
+0yMjExNTY3NSwzNzU4NDM0MTAsLTE1NTA0OTg4MCwyOTc4MDY5
+MDYsLTk1MzI1NjA3NywxMDI3NjAwODAwLDIwMDkyNDE3NSwxNz
+kwMzIzNzBdfQ==
 -->
