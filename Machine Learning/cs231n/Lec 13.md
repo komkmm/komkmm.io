@@ -25,6 +25,7 @@ this class will discuss about 3 most popular types models
 ## PixelRNN/CNN(Explicit density model)
 > Fully visible belief network, 
 > Use chain rule to decompose likelihood of an image x into product of 1-d distributions  
+> Explicit density model, optimizes exact likelihood, good samples. But inefficient sequential generation
 
 >![equation](https://latex.codecogs.com/gif.latex?%5C%5Cp%28x%29%20%3D%20%5Cprod_%7Bn%7D%5E%7Bi%3D1%7Dp%28x_i%7Cx_1%2C%20...%2C%20x_%7Bi-1%7D%29%5C%5C%20%5C%5Cp%28x%29%20%3A%20Likelihood%5C%2Cof%5C%2Cimage%5C%2C%20X%20%5C%5Cp%28x_i%7C%20...%29%20%3A%20Probability%5C%2Cof%5C%2C%27i%27th%5C%2Cpixel%5C%2Cvalue%5C%2Cgiven%5C%2Call%5C%2Cprevious%5C%2Cpixels)
 * objective : maximize likelihood of training data
@@ -33,6 +34,7 @@ this class will discuss about 3 most popular types models
 
 ## Variational Autoencoder(VAE)
 > Probabilistic spin on autoencoders => sample from the model to generate data
+> Optimize variational lower bound on likelihood. Useful latent representation, inference queries. But current sample qu
 ![vae](../img/vae_graph.PNG)
 
 * problem
@@ -70,10 +72,10 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc3NzE5NzMsMzQ4MTU3MTUxLC0xMj
-U3MTQ3MDIsLTQ1OTY3MTk0NSwtMTQ1MjkzOTQ5OCwyNTcyMTMy
-OTUsLTEzOTA2MDE1NjQsMTA5MDUwNjg1OSwxMTAzMTU1ODY2LD
-E3NjMzNjcwMjEsLTIyMTE1Njc1LDM3NTg0MzQxMCwtMTU1MDQ5
-ODgwLDI5NzgwNjkwNiwtOTUzMjU2MDc3LDEwMjc2MDA4MDAsMj
-AwOTI0MTc1LDE3OTAzMjM3MF19
+eyJoaXN0b3J5IjpbLTEwMzcyODc1MDIsLTEwODc3NzE5NzMsMz
+Q4MTU3MTUxLC0xMjU3MTQ3MDIsLTQ1OTY3MTk0NSwtMTQ1Mjkz
+OTQ5OCwyNTcyMTMyOTUsLTEzOTA2MDE1NjQsMTA5MDUwNjg1OS
+wxMTAzMTU1ODY2LDE3NjMzNjcwMjEsLTIyMTE1Njc1LDM3NTg0
+MzQxMCwtMTU1MDQ5ODgwLDI5NzgwNjkwNiwtOTUzMjU2MDc3LD
+EwMjc2MDA4MDAsMjAwOTI0MTc1LDE3OTAzMjM3MF19
 -->
