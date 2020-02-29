@@ -18,15 +18,16 @@
 > Use a function approximator to estimate the action-value function
 > ![equation](https://latex.codecogs.com/gif.latex?%5C%5CQ%28s%2C%20a%3B%5Ctheta%29%20%5Capprox%20Q%5E*%28s%2C%20a%29%5C%5C%20%5Ctheta%20%3A%20%5Ctextrm%7Bfunction%20parameters%20i.e.%20neural%20network%20weights%7D)
 
-### experience replay
+### Experience Replay
 > Learning from batches of consecutive samples is problematic:
 * Samples are correlated - inefficient learning
 * Current Q-network parameters determines next training samples - can lead to bad feedback loops
 > addresses these problems using experience replay - continually update a replay memory table of transitions
 
-### Policy Gr
+### Policy Gradients
+> Q-function can be very complicated. But the policy can be much simpler. If we can learn a policy directly, finding the best policy from a collection 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMDYwNDU2LC0yNDM2MDY0NDQsLTcyMz
+eyJoaXN0b3J5IjpbNDQzNTQ1NTQxLC0yNDM2MDY0NDQsLTcyMz
 Y0NDI4NSwtMTkxNDg1ODM3MCw5NTE4ODI0NDYsMTY5MTIyOTE5
 OCwtMTgxMTA4MjIxNywyMzM4NzI4MTBdfQ==
 -->
