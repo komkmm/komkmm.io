@@ -57,10 +57,12 @@
 * Action : (x, y) coordinates (center of glimpse) of where to look next in image
 * Reward : 1 at the final timestep if image correctly classified, 0 otherwise
 
+![algo](../img/RL_RAM.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTc0MzQ1NCwtMTkzNTAyOTc3NywtMT
-MyOTcxNTIwNiwxMzcyMjYyMTY4LDE1NDMzNzQxMTQsLTE2NDE0
-Nzc5NjgsNTA1MjA4OTQsLTIyMzM1ODY5MiwtMjQzNjA2NDQ0LC
-03MjM2NDQyODUsLTE5MTQ4NTgzNzAsOTUxODgyNDQ2LDE2OTEy
-MjkxOTgsLTE4MTEwODIyMTcsMjMzODcyODEwXX0=
+eyJoaXN0b3J5IjpbLTIxMzgzOTc0NDYsMTIwMTc0MzQ1NCwtMT
+kzNTAyOTc3NywtMTMyOTcxNTIwNiwxMzcyMjYyMTY4LDE1NDMz
+NzQxMTQsLTE2NDE0Nzc5NjgsNTA1MjA4OTQsLTIyMzM1ODY5Mi
+wtMjQzNjA2NDQ0LC03MjM2NDQyODUsLTE5MTQ4NTgzNzAsOTUx
+ODgyNDQ2LDE2OTEyMjkxOTgsLTE4MTEwODIyMTcsMjMzODcyOD
+EwXX0=
 -->
