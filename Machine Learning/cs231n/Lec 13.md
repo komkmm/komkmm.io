@@ -54,9 +54,10 @@ this class will discuss about 3 most popular types models
 > Sample from a simple distribution w/o explicitly density estimation
 ![gan](../img/GAN_graph.PNG)
 > Minimax objective function:  
-![equation](https://latex.codecogs.com/gif.latex?%5Cmin_%7B%5Ctheta_g%7D%5Cmax_%7B%5Ctheta_d%7D%5B%5Cmathbb%20E_%7Bx%20%5Csim%20p_%7Bdata%7D%7DlogD_%7B%5Ctheta_d%7D%20&plus;%20%5Cmathbb%20E_%7Bz%20%5Csim%20p_%7B%28z%29%7D%7Dlog%281%20-%20D_%7B%5Ctheta_d%7D%28G_%7B%5Ctheta_g%7D%28z%29%29%29%5D)
+![equation](https://latex.codecogs.com/gif.latex?%5Cmin_%7B%5Ctheta_g%7D%5Cmax_%7B%5Ctheta_d%7D%5B%5Cmathbb%20E_%7Bx%20%5Csim%20p_%7Bdata%7D%7DlogD_%7B%5Ctheta_d%7D%28x%29%20&plus;%20%5Cmathbb%20E_%7Bz%20%5Csim%20p_%7B%28z%29%7D%7Dlog%281%20-%20D_%7B%5Ctheta_d%7D%28G_%7B%5Ctheta_g%7D%28z%29%29%29%5D)
 > Alternate between:
-	> Gradient ascent on discriminator 
+	>> Gradient ascent on discriminator 
+	>> ![equation](https://latex.codecogs.com/gif.latex?%5Cmax_%7B%5Ctheta_d%7D%5B%5Cmathbb%20E_%7Bx%20%5Csim%20p_%7Bdata%7D%7DlogD_%7B%5Ctheta_d%7D%28x%29%20&plus;%20%5Cmathbb%20E_%7Bz%20%5Csim%20p_%7B%28z%29%7D%7Dlog%281%20-%20D_%7B%5Ctheta_d%7D%28G_%7B%5Ctheta_g%7D%28z%29%29%29%5D)
 
 ### Background Idea
 * Two-player game
@@ -67,10 +68,10 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzgzNDczOSwtMTI1NzE0NzAyLC00NT
-k2NzE5NDUsLTE0NTI5Mzk0OTgsMjU3MjEzMjk1LC0xMzkwNjAx
-NTY0LDEwOTA1MDY4NTksMTEwMzE1NTg2NiwxNzYzMzY3MDIxLC
-0yMjExNTY3NSwzNzU4NDM0MTAsLTE1NTA0OTg4MCwyOTc4MDY5
-MDYsLTk1MzI1NjA3NywxMDI3NjAwODAwLDIwMDkyNDE3NSwxNz
-kwMzIzNzBdfQ==
+eyJoaXN0b3J5IjpbMzkyOTQyODQ0LC0xMjU3MTQ3MDIsLTQ1OT
+Y3MTk0NSwtMTQ1MjkzOTQ5OCwyNTcyMTMyOTUsLTEzOTA2MDE1
+NjQsMTA5MDUwNjg1OSwxMTAzMTU1ODY2LDE3NjMzNjcwMjEsLT
+IyMTE1Njc1LDM3NTg0MzQxMCwtMTU1MDQ5ODgwLDI5NzgwNjkw
+NiwtOTUzMjU2MDc3LDEwMjc2MDA4MDAsMjAwOTI0MTc1LDE3OT
+AzMjM3MF19
 -->
