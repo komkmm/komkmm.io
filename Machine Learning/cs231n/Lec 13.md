@@ -33,7 +33,7 @@ this class will discuss about 3 most popular types models
 
 ## Variational Autoencoder(VAE)
 > Probabilistic spin on autoencoders => sample from the model to generate data
-![vae](../img/vae_graph.png)
+![vae](../img/vae_graph.PNG)
 
 
 
@@ -49,9 +49,9 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTU5OTMxMSwtMTM5MDYwMTU2NCwxMD
-kwNTA2ODU5LDExMDMxNTU4NjYsMTc2MzM2NzAyMSwtMjIxMTU2
-NzUsMzc1ODQzNDEwLC0xNTUwNDk4ODAsMjk3ODA2OTA2LC05NT
-MyNTYwNzcsMTAyNzYwMDgwMCwyMDA5MjQxNzUsMTc5MDMyMzcw
-XX0=
+eyJoaXN0b3J5IjpbMjU3MjEzMjk1LC0xMzkwNjAxNTY0LDEwOT
+A1MDY4NTksMTEwMzE1NTg2NiwxNzYzMzY3MDIxLC0yMjExNTY3
+NSwzNzU4NDM0MTAsLTE1NTA0OTg4MCwyOTc4MDY5MDYsLTk1Mz
+I1NjA3NywxMDI3NjAwODAwLDIwMDkyNDE3NSwxNzkwMzIzNzBd
+fQ==
 -->
