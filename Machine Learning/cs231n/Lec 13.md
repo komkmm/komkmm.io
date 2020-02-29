@@ -32,6 +32,9 @@ this class will discuss about 3 most popular types models
 * Generate image pixels starting from corner using RNN(LSTM) or CNN
 
 ## Variational Autoencoder(VAE)
+> Probabilistic spin on autoencoders
+
+
 ### Autoencoder(background)
 > Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training data
 > Train such that features can be used to reconstruct original data "Autoencoding" - encoding itself
@@ -44,8 +47,8 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDUwNjg1OSwxMTAzMTU1ODY2LDE3Nj
-MzNjcwMjEsLTIyMTE1Njc1LDM3NTg0MzQxMCwtMTU1MDQ5ODgw
-LDI5NzgwNjkwNiwtOTUzMjU2MDc3LDEwMjc2MDA4MDAsMjAwOT
-I0MTc1LDE3OTAzMjM3MF19
+eyJoaXN0b3J5IjpbMTU1NzA3MTIzMywxMDkwNTA2ODU5LDExMD
+MxNTU4NjYsMTc2MzM2NzAyMSwtMjIxMTU2NzUsMzc1ODQzNDEw
+LC0xNTUwNDk4ODAsMjk3ODA2OTA2LC05NTMyNTYwNzcsMTAyNz
+YwMDgwMCwyMDA5MjQxNzUsMTc5MDMyMzcwXX0=
 -->
