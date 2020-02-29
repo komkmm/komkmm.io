@@ -40,9 +40,9 @@
 		* Use discount factor lambda to ignore delayed effects
 			![equation](https://latex.codecogs.com/gif.latex?%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%5Capprox%20%5Csum_%7Bt%5Cgeq0%7D%5Cleft%20%28%20%5Csum_%7Bt%27%5Cgeq%20t%7D%5Cgamma%5E%7Bt%27-t%7Dr_%7Bt%27%7D%20%5Cright%20%29%5Cnabla_%5Ctheta%20%5Clog%20%5Cpi_%7B%5Ctheta%7D%28a_%7Bt%7D%7Cs_%7Bt%29%7D)
 		* third idea(Base line)
-			*
+			* Use baseline which me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDczNDgxMjAsLTEzMjk3MTUyMDYsMT
+eyJoaXN0b3J5IjpbLTE3OTMzMzY0MDUsLTEzMjk3MTUyMDYsMT
 M3MjI2MjE2OCwxNTQzMzc0MTE0LC0xNjQxNDc3OTY4LDUwNTIw
 ODk0LC0yMjMzNTg2OTIsLTI0MzYwNjQ0NCwtNzIzNjQ0Mjg1LC
 0xOTE0ODU4MzcwLDk1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODEx
