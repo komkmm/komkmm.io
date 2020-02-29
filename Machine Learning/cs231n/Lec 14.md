@@ -32,12 +32,17 @@
  * REINFORCE algorithm
  >![equation](https://latex.codecogs.com/gif.latex?%5C%5C%5Ctextrm%7BExpected%20reward%20%3A%7D%5C%5C%20%5Cbegin%7Balign*%7DJ%28%5Ctheta%29%20%26%3D%20%5Cmathbb%7BE%7D_%7B%5Ctau%5Csim%20p%28%5Ctau%3B%5Ctheta%29%20%7D%5Cbegin%7Bbmatrix%7Dr%28%5Ctau%29%5Cend%7Bbmatrix%7D%5C%5C%20%26%3D%20%5Cint_%7B%5Ctau%7Dr%28%5Ctau%29p%28%5Ctau%3B%5Ctheta%29d%5Ctau%20%5Cend%7Balign*%7D%20%5C%5C%5Ctextrm%7BDifferentiated%20term%20%3A%7D%5C%5C%20%5C%5C%20%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%3D%20%5Cint_%7B%5Ctau%7Dr%28%5Ctau%29%5Cnabla_%7B%5Ctheta%7Dp%28%5Ctau%3B%5Ctheta%29d%5Ctau%20%5C%5C%20%5Cnabla_%7B%5Ctheta%7Dp%28%5Ctau%3B%5Ctheta%29%3Dp%28%5Ctau%3B%5Ctheta%29%5Cfrac%7B%5Cnabla_%7B%5Ctheta%7Dp%28%5Ctau%3B%5Ctheta%29%7D%7Bp%28%5Ctau%3B%5Ctheta%29%7D%3D%7Bp%28%5Ctau%3B%5Ctheta%29%7D%5Cnabla_%7B%5Ctheta%7D%20%5Clog%20p%28%5Ctau%3B%5Ctheta%29%20%5C%5C%20%5C%5C%5Ctextrm%7BFinal%20Differentiated%20term%20%3A%7D%5C%5C%20%5C%5C%20%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%3D%20%5Cmathbb%7BE%7D_%7B%5Ctau%5Csim%20p%28%5Ctau%3B%5Ctheta%29%7D%5Cbegin%7Bbmatrix%7Dr%28%5Ctau%29%5Cnabla_%5Ctheta%20%5Clog%20p%28%5Ctau%3B%5Ctheta%29%5Cend%7Bbmatrix%7D)
 
-** Vriance reduction
+* Vriance reduction
+	*  First idea
+		* Push up probabilities of an action seen, only by the cumulative future reward from that state
+
+	* Second idea
+		* Use di
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAwNDg3ODEsMTM3MjI2MjE2OCwxNT
-QzMzc0MTE0LC0xNjQxNDc3OTY4LDUwNTIwODk0LC0yMjMzNTg2
-OTIsLTI0MzYwNjQ0NCwtNzIzNjQ0Mjg1LC0xOTE0ODU4MzcwLD
-k1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODExMDgyMjE3LDIzMzg3
-MjgxMF19
+eyJoaXN0b3J5IjpbMTQ1Mjk1MDk4NSwxMzcyMjYyMTY4LDE1ND
+MzNzQxMTQsLTE2NDE0Nzc5NjgsNTA1MjA4OTQsLTIyMzM1ODY5
+MiwtMjQzNjA2NDQ0LC03MjM2NDQyODUsLTE5MTQ4NTgzNzAsOT
+UxODgyNDQ2LDE2OTEyMjkxOTgsLTE4MTEwODIyMTcsMjMzODcy
+ODEwXX0=
 -->
