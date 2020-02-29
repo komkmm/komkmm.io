@@ -51,14 +51,17 @@ this class will discuss about 3 most popular types models
 * 
 
 ## GAN(Generative Adversarial Networks)
-> Sample from a simple dist
+> Sample from a simple distribution w/o explicitly density estimation
+
+### Background Idea
+* Two-player game
 
 
 Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODA2NzkwNiwtMTQ1MjkzOTQ5OCwyNT
+eyJoaXN0b3J5IjpbLTQ1NTA4NDg4OSwtMTQ1MjkzOTQ5OCwyNT
 cyMTMyOTUsLTEzOTA2MDE1NjQsMTA5MDUwNjg1OSwxMTAzMTU1
 ODY2LDE3NjMzNjcwMjEsLTIyMTE1Njc1LDM3NTg0MzQxMCwtMT
 U1MDQ5ODgwLDI5NzgwNjkwNiwtOTUzMjU2MDc3LDEwMjc2MDA4
