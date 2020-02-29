@@ -58,6 +58,8 @@ this class will discuss about 3 most popular types models
 > Alternate between:
 	>> Gradient ascent on discriminator 
 	>> ![equation](https://latex.codecogs.com/gif.latex?%5Cmax_%7B%5Ctheta_d%7D%5B%5Cmathbb%20E_%7Bx%20%5Csim%20p_%7Bdata%7D%7DlogD_%7B%5Ctheta_d%7D%28x%29%20&plus;%20%5Cmathbb%20E_%7Bz%20%5Csim%20p_%7B%28z%29%7D%7Dlog%281%20-%20D_%7B%5Ctheta_d%7D%28G_%7B%5Ctheta_g%7D%28z%29%29%29%5D)
+	>> Gradient descent on generator
+	>> ![equation](https://latex.codecogs.com/gif.latex?%5Cmin_%7B%5Ctheta_g%7D%5Cmathbb%20E_%7Bz%20%5Csim%20p_%7B%28z%29%7D%7Dlog%281%20-%20D_%7B%5Ctheta_d%7D%28G_%7B%5Ctheta_g%7D%28z%29%29%29)
 
 ### Background Idea
 * Two-player game
@@ -68,7 +70,7 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyOTQyODQ0LC0xMjU3MTQ3MDIsLTQ1OT
+eyJoaXN0b3J5IjpbMzQ4MTU3MTUxLC0xMjU3MTQ3MDIsLTQ1OT
 Y3MTk0NSwtMTQ1MjkzOTQ5OCwyNTcyMTMyOTUsLTEzOTA2MDE1
 NjQsMTA5MDUwNjg1OSwxMTAzMTU1ODY2LDE3NjMzNjcwMjEsLT
 IyMTE1Njc1LDM3NTg0MzQxMCwtMTU1MDQ5ODgwLDI5NzgwNjkw
