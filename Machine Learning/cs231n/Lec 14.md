@@ -7,7 +7,9 @@
 
 ## Markov Decision Process
 > Mathematical formulation of the RL problem
-> Markov property : Current state completely character
+> Markov property : Current state completely characterises the state of the world
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODM4MTEyMywyMzM4NzI4MTBdfQ==
+eyJoaXN0b3J5IjpbMTkwMDg2ODY1OSwyMzM4NzI4MTBdfQ==
 -->
