@@ -32,14 +32,15 @@ this class will discuss about 3 most popular types models
 * Generate image pixels starting from corner using RNN(LSTM) or CNN
 
 ## Variational Autoencoder(VAE)
-### Autoencoder
-> Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training dat
+### Autoencoder(background)
+> Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training data
+> 
 * 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDg3NjA5OCwzNzU4NDM0MTAsLTE1NT
+eyJoaXN0b3J5IjpbMTcxODUzOTU2NiwzNzU4NDM0MTAsLTE1NT
 A0OTg4MCwyOTc4MDY5MDYsLTk1MzI1NjA3NywxMDI3NjAwODAw
 LDIwMDkyNDE3NSwxNzkwMzIzNzBdfQ==
 -->
