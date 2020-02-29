@@ -50,16 +50,17 @@ this class will discuss about 3 most popular types models
 
 * 
 
-
+## GAN(Generative Adversarial Networks)
+> Sample from a simple dist
 
 
 Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzUxMTgzLC0xNDUyOTM5NDk4LDI1Nz
-IxMzI5NSwtMTM5MDYwMTU2NCwxMDkwNTA2ODU5LDExMDMxNTU4
-NjYsMTc2MzM2NzAyMSwtMjIxMTU2NzUsMzc1ODQzNDEwLC0xNT
-UwNDk4ODAsMjk3ODA2OTA2LC05NTMyNTYwNzcsMTAyNzYwMDgw
-MCwyMDA5MjQxNzUsMTc5MDMyMzcwXX0=
+eyJoaXN0b3J5IjpbLTQ2ODA2NzkwNiwtMTQ1MjkzOTQ5OCwyNT
+cyMTMyOTUsLTEzOTA2MDE1NjQsMTA5MDUwNjg1OSwxMTAzMTU1
+ODY2LDE3NjMzNjcwMjEsLTIyMTE1Njc1LDM3NTg0MzQxMCwtMT
+U1MDQ5ODgwLDI5NzgwNjkwNiwtOTUzMjU2MDc3LDEwMjc2MDA4
+MDAsMjAwOTI0MTc1LDE3OTAzMjM3MF19
 -->
