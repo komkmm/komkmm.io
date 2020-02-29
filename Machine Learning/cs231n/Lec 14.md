@@ -17,8 +17,9 @@
 ## Q-learning
 > Use a function approximator to estimate the action-value function
 > ![equation](https://latex.codecogs.com/gif.latex?%5C%5CQ%28s%2C%20a%3B%5Ctheta%29%20%5Capprox%20Q%5E*%28s%2C%20a%29%5C%5C%20%5Ctheta%20%3A%20%5Ctextrm%7Bfunction%20parameters%20i.e.%20neural%20network%20weights%7D)
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzY0NDI4NSwtMTkxNDg1ODM3MCw5NT
-E4ODI0NDYsMTY5MTIyOTE5OCwtMTgxMTA4MjIxNywyMzM4NzI4
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTMxNjc2NDcyMSwtNzIzNjQ0Mjg1LC0xOT
+E0ODU4MzcwLDk1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODExMDgy
+MjE3LDIzMzg3MjgxMF19
 -->
