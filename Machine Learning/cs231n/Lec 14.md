@@ -1,8 +1,7 @@
 # Deep Reinforcement Learning
 ## Reinforcement Learning
-* Data : (x, y) x is data, y is label
-* Goal : Learn a *function* to map x -> y
-* Examples : Classification, regression, object detection, semantic segmentation, image captioning, etc.
+> Problems involving an agent interacting with an environment, which provides numeric reward signals
+* Goal : Learn how to take actions in order to maximize reward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzA5MzM3OF19
+eyJoaXN0b3J5IjpbMjMzODcyODEwXX0=
 -->
