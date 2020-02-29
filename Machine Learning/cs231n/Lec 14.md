@@ -35,14 +35,14 @@
 * Vriance reduction
 	*  First idea
 		* Push up probabilities of an action seen, only by the cumulative future reward from that state
-
+		![equation](https://latex.codecogs.com/gif.latex?%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%5Capprox%20%5Csum_%7Bt%5Cgeq0%7D%5Cleft%20%28%20%5Csum_%7Bt%27%5Cgeq%20t%7Dr_%7Bt%27%7D%20%5Cright%20%29%5Cnabla_%5Ctheta%20%5Clog%20%5Cpi_%7B%5Ctheta%7D%28a_%7Bt%7D%7Cs_%7Bt%29%7D)
 	* Second idea
 		* Use discount factor lambda to ignore delayed effects
-
+			![eqi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk3MTUyMDYsMTM3MjI2MjE2OCwxNT
-QzMzc0MTE0LC0xNjQxNDc3OTY4LDUwNTIwODk0LC0yMjMzNTg2
-OTIsLTI0MzYwNjQ0NCwtNzIzNjQ0Mjg1LC0xOTE0ODU4MzcwLD
-k1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODExMDgyMjE3LDIzMzg3
-MjgxMF19
+eyJoaXN0b3J5IjpbLTI0ODEzOTUwMiwtMTMyOTcxNTIwNiwxMz
+cyMjYyMTY4LDE1NDMzNzQxMTQsLTE2NDE0Nzc5NjgsNTA1MjA4
+OTQsLTIyMzM1ODY5MiwtMjQzNjA2NDQ0LC03MjM2NDQyODUsLT
+E5MTQ4NTgzNzAsOTUxODgyNDQ2LDE2OTEyMjkxOTgsLTE4MTEw
+ODIyMTcsMjMzODcyODEwXX0=
 -->
