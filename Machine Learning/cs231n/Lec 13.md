@@ -35,7 +35,7 @@ this class will discuss about 3 most popular types models
 ### Autoencoder(background)
 > Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training data
 > Train such that features can be used to reconstruct original data "Autoencoding" - encoding itself
-
+![autoencoder](../img/Autoencoder_graph.PNG)
 
 * 
 
@@ -44,8 +44,8 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzE1NTg2NiwxNzYzMzY3MDIxLC0yMj
-ExNTY3NSwzNzU4NDM0MTAsLTE1NTA0OTg4MCwyOTc4MDY5MDYs
-LTk1MzI1NjA3NywxMDI3NjAwODAwLDIwMDkyNDE3NSwxNzkwMz
-IzNzBdfQ==
+eyJoaXN0b3J5IjpbMTA5MDUwNjg1OSwxMTAzMTU1ODY2LDE3Nj
+MzNjcwMjEsLTIyMTE1Njc1LDM3NTg0MzQxMCwtMTU1MDQ5ODgw
+LDI5NzgwNjkwNiwtOTUzMjU2MDc3LDEwMjc2MDA4MDAsMjAwOT
+I0MTc1LDE3OTAzMjM3MF19
 -->
