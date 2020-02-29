@@ -30,10 +30,10 @@
 > ![equation](https://latex.codecogs.com/gif.latex?%5C%5C%5Ctextrm%7Bclass%20of%20parameterized%20policies%20%3A%20%7D%5Cprod%20%3D%20%7B%5Cpi_%5Ctheta%2C%20%5Ctheta%5Cin%20%5Cmathbb%7BR%7D%5E%7Bm%7D%7D%20%5C%5C%20%5Ctextrm%7BFor%20each%20policy%20%3A%20%7DJ%28%5Ctheta%29%20%3D%20%5Cmathbb%7BE%7D%5Cbegin%7Bbmatrix%7D%20%5Csum_%7Bt%3E%3D0%7D%5Cgamma%5Etr_t%7C%5Cpi_%5Ctheta%20%5Cend%7Bbmatrix%7D%20%5C%5C%20%5Ctextrm%7Boptimal%20policy%20%3A%20%7D%5Ctheta%5E*%20%3D%20arg%5C%2C%5Cmax_%7B%5Ctheta%7DJ%28%5Ctheta%29)
  
  * REINFORCE algorithm
- >![equation](https://latex.codecogs.com/gif.latex?%5C%5C%5Ctextrm%7BExpected%20reward%20%3A%7D%5C%5C%20%5Cbegin%7Balign*%7DJ%28%5Ctheta%29%20%26%3D%20%5Cmathbb%7BE%7D_%7B%5Ctau%5Csim%20p%28%5Ctau%3B%5Ctheta%29%20%7D%5Cbegin%7Bbmatrix%7Dr%28%5Ctau%29%5Cend%7Bbmatrix%7D%5C%5C%20%26%3D%20%5Cint_%7B%5Ctau%7Dr%28%5Ctau%29p%28%5Ctau%3B%5Ctheta%29d%5Ctau%20%5Cend%7Balign*%7D%20%5C%5C%5Ctextrm%7BDifferentiated%20term%20%3A%7D%5C%5C%20%5C%5C%20%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%3D%20%5Cint_%7B%5Ctau%7Dr%28%5Ctau%29%5Cnabla_%7B%5Ctheta%7Dp%28%5Ctau%3B%5Ctheta%29d%5Ctau)
+ >![equation](https://latex.codecogs.com/gif.latex?%5C%5C%5Ctextrm%7BExpected%20reward%20%3A%7D%5C%5C%20%5Cbegin%7Balign*%7DJ%28%5Ctheta%29%20%26%3D%20%5Cmathbb%7BE%7D_%7B%5Ctau%5Csim%20p%28%5Ctau%3B%5Ctheta%29%20%7D%5Cbegin%7Bbmatrix%7Dr%28%5Ctau%29%5Cend%7Bbmatrix%7D%5C%5C%20%26%3D%20%5Cint_%7B%5Ctau%7Dr%28%5Ctau%29p%28%5Ctau%3B%5Ctheta%29d%5Ctau%20%5Cend%7Balign*%7D%20%5C%5C%5Ctextrm%7BDifferentiated%20term%20%3A%7D%5C%5C%20%5C%5C%20%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%3D%20%5Cint_%7B%5Ctau%7Dr%28%5Ctau%29%5Cnabla_%7B%5Ctheta%7Dp%28%5Ctau%3B%5Ctheta%29d%5Ctau%20%5C%5C%20%5Cnabla_%7B%5Ctheta%7Dp%28%5Ctau%3B%5Ctheta%29%3Dp%28%5Ctau%3B%5Ctheta%29%5Cfrac%7B%5Cnabla_%7B%5Ctheta%7Dp%28%5Ctau%3B%5Ctheta%29%7D%7Bp%28%5Ctau%3B%5Ctheta%29%7D%3D%7Bp%28%5Ctau%3B%5Ctheta%29%7D%5Cnabla_%7B%5Ctheta%7D%20%5Clog%20p%28%5Ctau%3B%5Ctheta%29%20%5C%5C%20%5C%5C%5Ctextrm%7BFinal%20Differentiated%20term%20%3A%7D%5C%5C%20%5C%5C%20%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%3D%20%5Cmathbb%7BE%7D_%7B%5Ctau%5Csim%20p%28%5Ctau%3B%5Ctheta%29%7D%5Cbegin%7Bbmatrix%7Dr%28%5Ctau%29%5Cnabla_%5Ctheta%20%5Clog%20p%28%5Ctau%3B%5Ctheta%29%5Cend%7Bbmatrix%7D)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzM3NDExNCwtMTY0MTQ3Nzk2OCw1MD
-UyMDg5NCwtMjIzMzU4NjkyLC0yNDM2MDY0NDQsLTcyMzY0NDI4
-NSwtMTkxNDg1ODM3MCw5NTE4ODI0NDYsMTY5MTIyOTE5OCwtMT
-gxMTA4MjIxNywyMzM4NzI4MTBdfQ==
+eyJoaXN0b3J5IjpbMTM3MjI2MjE2OCwxNTQzMzc0MTE0LC0xNj
+QxNDc3OTY4LDUwNTIwODk0LC0yMjMzNTg2OTIsLTI0MzYwNjQ0
+NCwtNzIzNjQ0Mjg1LC0xOTE0ODU4MzcwLDk1MTg4MjQ0NiwxNj
+kxMjI5MTk4LC0xODExMDgyMjE3LDIzMzg3MjgxMF19
 -->
