@@ -52,7 +52,7 @@ this class will discuss about 3 most popular types models
 
 ## GAN(Generative Adversarial Networks)
 > Sample from a simple distribution w/o explicitly density estimation
-
+![gan](../img/GAN_graph.PNG)
 
 
 ### Background Idea
@@ -64,7 +64,7 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjUyNjYzNywtNDU5NjcxOTQ1LC0xND
+eyJoaXN0b3J5IjpbLTEyNTcxNDcwMiwtNDU5NjcxOTQ1LC0xND
 UyOTM5NDk4LDI1NzIxMzI5NSwtMTM5MDYwMTU2NCwxMDkwNTA2
 ODU5LDExMDMxNTU4NjYsMTc2MzM2NzAyMSwtMjIxMTU2NzUsMz
 c1ODQzNDEwLC0xNTUwNDk4ODAsMjk3ODA2OTA2LC05NTMyNTYw
