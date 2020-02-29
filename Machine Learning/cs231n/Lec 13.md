@@ -34,13 +34,13 @@ this class will discuss about 3 most popular types models
 ## Variational Autoencoder(VAE)
 ### Autoencoder(background)
 > Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training data
-> 
+> Train such that features can be used to reconstruct
 * 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODUzOTU2NiwzNzU4NDM0MTAsLTE1NT
+eyJoaXN0b3J5IjpbLTI1MDU2MjEwMiwzNzU4NDM0MTAsLTE1NT
 A0OTg4MCwyOTc4MDY5MDYsLTk1MzI1NjA3NywxMDI3NjAwODAw
 LDIwMDkyNDE3NSwxNzkwMzIzNzBdfQ==
 -->
