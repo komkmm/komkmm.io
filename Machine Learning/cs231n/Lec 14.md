@@ -37,12 +37,12 @@
 		* Push up probabilities of an action seen, only by the cumulative future reward from that state
 
 	* Second idea
-		* Use di
+		* Use discount factor lambda to ignore delayed effects
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mjk1MDk4NSwxMzcyMjYyMTY4LDE1ND
-MzNzQxMTQsLTE2NDE0Nzc5NjgsNTA1MjA4OTQsLTIyMzM1ODY5
-MiwtMjQzNjA2NDQ0LC03MjM2NDQyODUsLTE5MTQ4NTgzNzAsOT
-UxODgyNDQ2LDE2OTEyMjkxOTgsLTE4MTEwODIyMTcsMjMzODcy
-ODEwXX0=
+eyJoaXN0b3J5IjpbLTEzMjk3MTUyMDYsMTM3MjI2MjE2OCwxNT
+QzMzc0MTE0LC0xNjQxNDc3OTY4LDUwNTIwODk0LC0yMjMzNTg2
+OTIsLTI0MzYwNjQ0NCwtNzIzNjQ0Mjg1LC0xOTE0ODU4MzcwLD
+k1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODExMDgyMjE3LDIzMzg3
+MjgxMF19
 -->
