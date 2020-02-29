@@ -44,11 +44,12 @@
 		* Use baseline which means standard reward degree and it can evaluates reward which is more or less than we expect
 			![equation](https://latex.codecogs.com/gif.latex?%5Cnabla_%7B%5Ctheta%7DJ%28%5Ctheta%29%20%5Capprox%20%5Csum_%7Bt%5Cgeq0%7D%5Cleft%20%28%20%5Csum_%7Bt%27%5Cgeq%20t%7D%5Cgamma%5E%7Bt%27-t%7Dr_%7Bt%27%7D%20-%20b%28s_t%29%20%5Cright%20%29%5Cnabla_%5Ctheta%20%5Clog%20%5Cpi_%7B%5Ctheta%7D%28a_%7Bt%7D%7Cs_%7Bt%29%7D)
 
-* 
+### Actor-Critic Algorithm
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTk2MzcxNSwtMTMyOTcxNTIwNiwxMz
-cyMjYyMTY4LDE1NDMzNzQxMTQsLTE2NDE0Nzc5NjgsNTA1MjA4
-OTQsLTIyMzM1ODY5MiwtMjQzNjA2NDQ0LC03MjM2NDQyODUsLT
-E5MTQ4NTgzNzAsOTUxODgyNDQ2LDE2OTEyMjkxOTgsLTE4MTEw
-ODIyMTcsMjMzODcyODEwXX0=
+eyJoaXN0b3J5IjpbLTE5MzUwMjk3NzcsLTEzMjk3MTUyMDYsMT
+M3MjI2MjE2OCwxNTQzMzc0MTE0LC0xNjQxNDc3OTY4LDUwNTIw
+ODk0LC0yMjMzNTg2OTIsLTI0MzYwNjQ0NCwtNzIzNjQ0Mjg1LC
+0xOTE0ODU4MzcwLDk1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODEx
+MDgyMjE3LDIzMzg3MjgxMF19
 -->
