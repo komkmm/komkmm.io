@@ -23,8 +23,10 @@
 * Samples are correlated - inefficient learning
 * Current Q-network parameters determines next training samples - can lead to bad feedback loops
 > addresses these problems using experience replay - continually update a replay memory table of transitions
+
+### Policy Gr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzYwNjQ0NCwtNzIzNjQ0Mjg1LC0xOT
-E0ODU4MzcwLDk1MTg4MjQ0NiwxNjkxMjI5MTk4LC0xODExMDgy
-MjE3LDIzMzg3MjgxMF19
+eyJoaXN0b3J5IjpbNzcyMDYwNDU2LC0yNDM2MDY0NDQsLTcyMz
+Y0NDI4NSwtMTkxNDg1ODM3MCw5NTE4ODI0NDYsMTY5MTIyOTE5
+OCwtMTgxMTA4MjIxNywyMzM4NzI4MTBdfQ==
 -->
