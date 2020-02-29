@@ -17,7 +17,7 @@
 	- Implicit density estimation : learn model that can sample from p_model(x) w/o explicitly defining it
 
 * Taxonomy
-![taxonomy](./img/chainrule_example.png)
+![taxonomy](../img/chainrule_example.png)
 
 this class will discuss about 3 most popular types models
 (PixelRNN/CNN, Variational Autoencoder(VAE), GAN)
@@ -42,7 +42,8 @@ this class will discuss about 3 most popular types models
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzM2NzAyMSwtMjIxMTU2NzUsMzc1OD
-QzNDEwLC0xNTUwNDk4ODAsMjk3ODA2OTA2LC05NTMyNTYwNzcs
-MTAyNzYwMDgwMCwyMDA5MjQxNzUsMTc5MDMyMzcwXX0=
+eyJoaXN0b3J5IjpbLTU0MTkxOTY1LDE3NjMzNjcwMjEsLTIyMT
+E1Njc1LDM3NTg0MzQxMCwtMTU1MDQ5ODgwLDI5NzgwNjkwNiwt
+OTUzMjU2MDc3LDEwMjc2MDA4MDAsMjAwOTI0MTc1LDE3OTAzMj
+M3MF19
 -->
