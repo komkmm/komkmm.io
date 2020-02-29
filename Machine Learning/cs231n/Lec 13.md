@@ -34,6 +34,9 @@ this class will discuss about 3 most popular types models
 ## Variational Autoencoder(VAE)
 > Probabilistic spin on autoencoders => sample from the model to generate data
 
+
+
+
 ### Autoencoder(background)
 > Unsupervised approach for learning a lower-dimensional feature representation from unlabeled training data
 > Train such that features can be used to reconstruct original data "Autoencoding" - encoding itself
@@ -46,8 +49,9 @@ Reference
 * http://cs231n.github.io/ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA2MDE1NjQsMTA5MDUwNjg1OSwxMT
-AzMTU1ODY2LDE3NjMzNjcwMjEsLTIyMTE1Njc1LDM3NTg0MzQx
-MCwtMTU1MDQ5ODgwLDI5NzgwNjkwNiwtOTUzMjU2MDc3LDEwMj
-c2MDA4MDAsMjAwOTI0MTc1LDE3OTAzMjM3MF19
+eyJoaXN0b3J5IjpbMTU2NDc3OTczOCwtMTM5MDYwMTU2NCwxMD
+kwNTA2ODU5LDExMDMxNTU4NjYsMTc2MzM2NzAyMSwtMjIxMTU2
+NzUsMzc1ODQzNDEwLC0xNTUwNDk4ODAsMjk3ODA2OTA2LC05NT
+MyNTYwNzcsMTAyNzYwMDgwMCwyMDA5MjQxNzUsMTc5MDMyMzcw
+XX0=
 -->
