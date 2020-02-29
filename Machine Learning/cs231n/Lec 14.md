@@ -55,11 +55,12 @@
 > Take a sequence of "glimpses" selectively focusing on regions of the image, to predict class
 * state : Glimpses seen so far
 * Action : (x, y) coordinates (center of glimpse) of where to look next in image
-* Reward 
+* Reward : 1 at the final timestep if image correctly classified, 0 otherwise
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjk2MDc4LC0xOTM1MDI5Nzc3LC0xMz
-I5NzE1MjA2LDEzNzIyNjIxNjgsMTU0MzM3NDExNCwtMTY0MTQ3
-Nzk2OCw1MDUyMDg5NCwtMjIzMzU4NjkyLC0yNDM2MDY0NDQsLT
-cyMzY0NDI4NSwtMTkxNDg1ODM3MCw5NTE4ODI0NDYsMTY5MTIy
-OTE5OCwtMTgxMTA4MjIxNywyMzM4NzI4MTBdfQ==
+eyJoaXN0b3J5IjpbMTIwMTc0MzQ1NCwtMTkzNTAyOTc3NywtMT
+MyOTcxNTIwNiwxMzcyMjYyMTY4LDE1NDMzNzQxMTQsLTE2NDE0
+Nzc5NjgsNTA1MjA4OTQsLTIyMzM1ODY5MiwtMjQzNjA2NDQ0LC
+03MjM2NDQyODUsLTE5MTQ4NTgzNzAsOTUxODgyNDQ2LDE2OTEy
+MjkxOTgsLTE4MTEwODIyMTcsMjMzODcyODEwXX0=
 -->
