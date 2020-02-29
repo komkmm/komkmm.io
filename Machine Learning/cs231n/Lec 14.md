@@ -29,9 +29,11 @@
 > 
 > ![equation](https://latex.codecogs.com/gif.latex?%5C%5C%5Ctextrm%7Bclass%20of%20parameterized%20policies%20%3A%20%7D%5Cprod%20%3D%20%7B%5Cpi_%5Ctheta%2C%20%5Ctheta%5Cin%20%5Cmathbb%7BR%7D%5E%7Bm%7D%7D%20%5C%5C%20%5Ctextrm%7BFor%20each%20policy%20%3A%20%7DJ%28%5Ctheta%29%20%3D%20%5Cmathbb%7BE%7D%5Cbegin%7Bbmatrix%7D%20%5Csum_%7Bt%3E%3D0%7D%5Cgamma%5Etr_t%7C%5Cpi_%5Ctheta%20%5Cend%7Bbmatrix%7D%20%5C%5C%20%5Ctextrm%7Boptimal%20policy%20%3A%20%7D%5Ctheta%5E*%20%3D%20arg%5C%2C%5Cmax_%7B%5Ctheta%7DJ%28%5Ctheta%29)
  
+ * REINFORCE algorithm
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODAyNjE5Niw1MDUyMDg5NCwtMjIzMz
-U4NjkyLC0yNDM2MDY0NDQsLTcyMzY0NDI4NSwtMTkxNDg1ODM3
-MCw5NTE4ODI0NDYsMTY5MTIyOTE5OCwtMTgxMTA4MjIxNywyMz
-M4NzI4MTBdfQ==
+eyJoaXN0b3J5IjpbLTE2NDE0Nzc5NjgsNTA1MjA4OTQsLTIyMz
+M1ODY5MiwtMjQzNjA2NDQ0LC03MjM2NDQyODUsLTE5MTQ4NTgz
+NzAsOTUxODgyNDQ2LDE2OTEyMjkxOTgsLTE4MTEwODIyMTcsMj
+MzODcyODEwXX0=
 -->
