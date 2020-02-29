@@ -52,11 +52,14 @@
 
 ## REINFORCE in action
 ### RAM(Recurrent Attention Model)
-
+> Take a sequence of "glimpses" selectively focusing on regions of the image, to predict class
+* state : Glimpses seen so far
+* Action : (x, y) coordinates (center of glimpse) of where to look next in image
+* Reward 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NTI5MzgsLTE5MzUwMjk3NzcsLTEzMj
-k3MTUyMDYsMTM3MjI2MjE2OCwxNTQzMzc0MTE0LC0xNjQxNDc3
-OTY4LDUwNTIwODk0LC0yMjMzNTg2OTIsLTI0MzYwNjQ0NCwtNz
-IzNjQ0Mjg1LC0xOTE0ODU4MzcwLDk1MTg4MjQ0NiwxNjkxMjI5
-MTk4LC0xODExMDgyMjE3LDIzMzg3MjgxMF19
+eyJoaXN0b3J5IjpbLTIxNjk2MDc4LC0xOTM1MDI5Nzc3LC0xMz
+I5NzE1MjA2LDEzNzIyNjIxNjgsMTU0MzM3NDExNCwtMTY0MTQ3
+Nzk2OCw1MDUyMDg5NCwtMjIzMzU4NjkyLC0yNDM2MDY0NDQsLT
+cyMzY0NDI4NSwtMTkxNDg1ODM3MCw5NTE4ODI0NDYsMTY5MTIy
+OTE5OCwtMTgxMTA4MjIxNywyMzM4NzI4MTBdfQ==
 -->
