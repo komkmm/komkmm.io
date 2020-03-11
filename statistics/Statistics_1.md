@@ -9,7 +9,7 @@
 ** 매 시행마다 단 두 가지 가능한 결과만 발생하며, P(X = 0) = p, P(X = 1) = q, 0 <= p <= 1, q = 1-p를 만족하는 분포이며  이항 분포의 특수한 사례
 
 * multinoulli Distribution
-** Bernoulli Distri
+** Bernoulli Distribution이 0 또는 1(-1 또는 1)의 Random variable distribution인 것과 달리 Random variable이 K 이하인 distribution으로 Bernoulli 의 확장판.
 
 
 * 정보이론
@@ -29,5 +29,5 @@
 
 출처 : https://ratsgo.github.io/statistics/2017/09/22/information/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTk3MzU1Nl19
+eyJoaXN0b3J5IjpbLTQ2ODc5NzA3Nl19
 -->
