@@ -7,6 +7,9 @@
 * Markov Model(MM)
 > MM has 'state' and 'state transition probability'
 
+* Hidden Markov Model(HMM)
+
+
 
 * 정보이론
 > 확률분포의 특성이나 확률분포 간 유사성을 정량화하는데 활용
@@ -25,6 +28,6 @@
 
 출처 : https://ratsgo.github.io/statistics/2017/09/22/information/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk1NTUyNDYsMTYwNzgyOTE2NSwtND
-Y4Nzk3MDc2XX0=
+eyJoaXN0b3J5IjpbLTY0Nzc0MTQ1MiwxNjA3ODI5MTY1LC00Nj
+g3OTcwNzZdfQ==
 -->
